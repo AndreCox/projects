@@ -11,6 +11,7 @@ This robot arm is connected to ROS the Robotic Operating System, I plan to use a
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Ros](https://img.shields.io/badge/Ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ## Okanagan Engineering </br> Competition </br> <med>Feb 2023</med>
 
@@ -59,7 +60,18 @@ In 2022 I was hired to rewrite the Labs for my class APSC 258 Applications of en
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-23007ACC?style=for-the-badge&logo=docker&logoColor=white)
 
-## OEC 2022
+## Okanagan Engineering </br> Competition </br> Oct 2022
+
+2022 Was my first Okanagan Engineering Competition, for this competition my team was tasked with creating minesweeper in 5 hours, Our team was able to produce a working version of the algorithm and went on to win second place. This task had a lot of suprisingly challenging programming as recursive functions were needed to uncover the different tiles when clicked.
+
+You can play the game [here](https://andrecox.github.io/minesweeper-clone/)
+![Minesweeper](./images/minesweep.png)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Boeing 747-8 Solidworks </br> Feb 2021
 
@@ -72,3 +84,9 @@ In my first year at University we were tasked with creating a project in Solidwo
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Solidworks](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+## First Tech Challenge </br> Feb 2020
+
+I started the robotics club at my highschool in 2019, and I was fortuanate enough to participate in the First Tech Challenge, where my team won the Collins Aerospace Inovation Award for our unique design and software programming.
+
+![First Tech Challenge](./images/first.jpg)
