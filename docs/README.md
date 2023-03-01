@@ -2,7 +2,7 @@
 
 ## Robotic Arm Project </br> <med>Feb 2023</med>
 
-This robot arm is connected to ROS the Robotic Operating System, I plan to use an Xbox Kinect in the future to allow the robotic arm to gain a 3D understanding of the world around it using MoveIt motion planing.
+The robot arm project is one I have been working on recently is connected to the ROS (the Robotic Operating System). In the future, I plan to use an Xbox Kinect to help the arm gain a 3D understanding of its surroundings. This will be achieved using MoveIt motion planning, a tool that will enable the arm to move with greater accuracy and flexibility.
 
 ![Robotic Arm](./images/roboticarm.jpg)
 
@@ -15,7 +15,7 @@ This robot arm is connected to ROS the Robotic Operating System, I plan to use a
 
 ## Okanagan Engineering </br> Competition </br> <med>Feb 2023</med>
 
-During the Western Engineering Competition 2023 my team and I programed the game Battle Ships from scratch in 5 hours. This featured network play over a socket server and a website to host the game. My team won second place.
+In the competitive Western Engineering Competition of 2023 my team and I programed the game Battle Ships from scratch in a mere 5 hours. In this short amount of time we were able to re-imagine this classic board-game with network play over a socket server and a website to host the game. My team's hard work payed off as we were awarded second place at the competition.
 
 ![BattleShip Menu](./images/battleshipmenu.png)
 ![BattleShip Game](./images/battleshipgame.png)
@@ -87,6 +87,6 @@ In my first year at University we were tasked with creating a project in Solidwo
 
 ## First Tech Challenge </br> Feb 2020
 
-I started the robotics club at my highschool in 2019, and I was fortuanate enough to participate in the First Tech Challenge, where my team won the Collins Aerospace Inovation Award for our unique design and software programming.
+I started the robotics club at my highschool in 2019, and I was fortunate enough to participate in the First Tech Challenge, where my team won the Collins Aerospace Innovation Award for our unique design and software programming.
 
 ![First Tech Challenge](./images/first.jpg)
